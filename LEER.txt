@@ -1,0 +1,12 @@
+Implementacion de un SW de Inventario
+Empresa: Electromundo
+Autor		:	Univ. Lazcano Ballesteros Lexer	
+
+-------------IMPORTANTE--------------
+Para que el Sw funcione correntamente debe copiarse el contenido
+de la carpeta "ACCESS" al disco local "D", y recomendablemente tambien 
+la carpeta "VISUAL STUDIO" donde se encuentra el SW, para poder ingresar al 
+SW el login es:
+
+USUARIO: lexer
+CONTRASEÑA: lazcano
